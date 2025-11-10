@@ -1,0 +1,6 @@
+balena-etcher
+brave-bin
+opentabletdriver
+spicetify-cli
+tty-clock
+waybar-media-git
